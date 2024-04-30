@@ -1,6 +1,6 @@
 import './App.css';
-import Todolistcopy from './Todolistcopy';
-// import Todolist from './Todolist';
+// import Todolistcopy from './Todolistcopy';
+import Todolist from './Todolist';
 
 function App() {
   return (
